@@ -4,4 +4,4 @@ title: Áraink
 permalink: /prices/
 ---
 
-Feltöltés folyamatban
+Az oldal feltöltése folyamatban, kérjük a megadott elérhetőségeken érdeklődjenek.
