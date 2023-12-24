@@ -21,7 +21,7 @@
 title: Részecskeszűrő Tisztítás
 email: dpfmoso@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  DPF Részecskeszűrők tisztításaát végezzük Létavértesen.
+  DPF Részecskeszűrők tisztítását végezzük Létavértesen.
 baseurl: /dpf-cleaning
 url: https://UncleCharlie.github.io
 twitter_username: jekyllrb
